@@ -1,6 +1,6 @@
 # final_project_proposal
 
-The goal od this project is to create awareness on misinformation by making reference to fake news. An interactive web application which gets data from a news API, anf by using text-based generative model I can create fake news. 
+The goal of this project is to create awareness on misinformation by making reference to fake news. An interactive web application which gets data from a news API, anf by using text-based generative model I can create fake news. 
 
 INSPIRATION
 Lots of things you read online especially in your social media feeds may appear to be true, often is not. Fake news is news, stories or hoaxes created to deliberately misinform or deceive readers. 
